@@ -2,6 +2,10 @@
 
 ###
 
+<img align="center" height="175" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+
+###
+
 # 💫 About Me:
 💻 CSE Sophomore | 🧠 Code Whisperer in Training | 🧪 Digital Alchemist<br><br>Currently diving deep into the worlds of Python and Java, building a solid foundation in computer science and software development. I love turning abstract ideas into real, working code — and learning something new every step of the way.<br><br>🔍 Currently exploring the realms of:<br><br>Data Structures & Algorithms<br><br>Operating Systems & Networking<br><br>Real-world problem-solving through code<br><br>🚧 Always building. Always learning.
 
@@ -26,8 +30,6 @@
 
 <br clear="both">
 
-<img align="right" height="175" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
-
 ###
 
 <br clear="both">
@@ -37,7 +39,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img align="center" alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
 ###
