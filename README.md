@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Eklavya and I'm a Digital Nomad🔎</h2>
+<h2 align="center">Hi 👋! My name is Eklavya and I'm a Digital Nomad🔎</h2>
 
 ###
 
