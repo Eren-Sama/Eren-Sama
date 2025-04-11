@@ -78,7 +78,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
-###
 
 <div align="center">
   <a href="https://open.spotify.com/user/31lpt5kvnvba3b6csrhxwc3inggu">
