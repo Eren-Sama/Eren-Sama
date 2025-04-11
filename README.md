@@ -11,7 +11,8 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/noxiousweeb) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eklavya16) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/ErenSama69) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@itsweebdom) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@weebdom) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eklavya1675@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/noxiousweeb) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eklavya16) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/ErenSama69) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@itsweebdom) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@weebdom) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eklavya1675@gmail.com) [Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/erensama)
+
 
 
 
