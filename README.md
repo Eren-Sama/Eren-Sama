@@ -8,8 +8,6 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" style="border-radius:16px"/>
 </p>
 
-<br>
-
 <p align="center">
   <img src="https://img.shields.io/badge/AWS_AI_Scholar-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" height="30"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Perplexity_Campus_Partner-1C1C1C?style=for-the-badge&logo=perplexity&logoColor=white" height="30"/>
 </p>
