@@ -37,7 +37,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" style="vertical-align:middle"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45" width="45" style="vertical-align:middle;margin:0 2px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45" width="45" style="vertical-align:middle;margin:0 7px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" width="45" style="vertical-align:middle;margin:0 4px"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="45" width="45" style="vertical-align:middle;margin:0 4px"/>
 </p>
