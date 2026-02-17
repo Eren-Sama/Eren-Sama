@@ -1,50 +1,142 @@
-<h2 align="center">Hi 👋! My name is Eklavya and I'm a Digital Nomad🔎</h2>
+<h1 align="center">EKLAVYA MOHAN AGRAWAL</h1>
 
-###
+<p align="center">
+  <b>AI / ML Engineer</b><br>
+  Building Production-Ready Intelligent Systems
+</p>
 
-<img align="center" height="275" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+<p align="center">
+  LLMs • Agentic AI • RAG • Computer Vision
+</p>
 
-###
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" height="220" style="border-radius:12px"/>
+</p>
 
-# 💫 About Me:
-💻 CSE Sophomore | 🧠 Code Whisperer in Training | 🧪 Digital Alchemist<br><br>Currently diving deep into the worlds of Python and Java, building a solid foundation in computer science and software development. I love turning abstract ideas into real, working code — and learning something new every step of the way.<br><br>🔍 Currently exploring the realms of:<br><br>Data Structures & Algorithms<br><br>Operating Systems & Networking<br><br>Real-world problem-solving through code<br><br>🚧 Always building. Always learning.
+<p align="center"><img src="https://img.shields.io/badge/AWS_AI_Scholar-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" height="28"/> &nbsp;<img src="https://img.shields.io/badge/Perplexity_Campus_Partner-1C1C1C?style=for-the-badge&logo=perplexity&logoColor=white" height="28"/></p>
 
+<p align="center">
+  <a href="https://github.com/Eren-Sama"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github" height="20"/></a>
+  <a href="https://linkedin.com/in/eklavya16"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin" height="20"/></a>
+  <a href="mailto:eklavya1675@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" height="20"/></a>
+  <a href="https://instagram.com/noxiousweeb"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram" height="20"/></a>
+  <a href="https://x.com/@itsweebdom"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x" height="20"/></a>
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/noxiousweeb) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eklavya16) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/ErenSama69) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@itsweebdom) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@weebdom) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eklavya1675@gmail.com) 
+---
 
+## Tech Stack
 
+### Languages
+<p align="left"><img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,postgres&theme=dark" /></p>
 
+### AI/ML Frameworks
+<p align="left"><img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45" width="45"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" width="45"/><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="45" width="45"/></p>
 
-###
+### Web Frameworks
+<p align="left"><img src="https://skillicons.dev/icons?i=flask,fastapi,nextjs,react,nodejs,streamlit&theme=dark" /></p>
 
-# 💻 Tamed & Tempted Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=flat&logo=riotgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=flat&logo=Ubisoft&logoColor=black) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat&logo=unrealengine&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat&logo=nVIDIA&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=flat&logo=epicgames&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=flat&logo=amd&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=flat&logo=tor-project&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=flat) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat&logo=Twilio&logoColor=white) ![Tampermonkey](https://img.shields.io/badge/tampermonkey-%2300485B.svg?style=flat&logo=tampermonkey&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=flat&labelColor=171717&logoColor=5cb85c)
+### Databases & Cloud
+<p align="left"><img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,supabase,vercel&theme=dark" /></p>
 
-# 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eren-Sama&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Eren-Sama&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false" height="150" alt="languages graph"  />
-</div>
+### DevOps & Tools
+<p align="left"><img src="https://skillicons.dev/icons?i=git,docker,postman,vscode&theme=dark" /></p>
 
-###
+**Specializations:** CNNs • RNNs • Transformers • Computer Vision • NLP • LLMs • Agentic AI • RAG
 
-# 🧩 CodeCrawl
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img align="center" alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
+## Featured Projects
 
-###
+### 🎯 Shortlist — AI Career Engineering Platform
 
-# 🎧 Code & Chill
+Multi-agent LLM orchestration system that converts job descriptions into recruiter-aligned portfolio strategies.
 
-<div align="center">
-  <a href="https://open.spotify.com/user/31lpt5kvnvba3b6csrhxwc3inggu">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31lpt5kvnvba3b6csrhxwc3inggu&count=1&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
+**Architecture**
+- 6-agent LangGraph orchestration
+- Dynamic company-context scoring
+- Multi-tenant security
+- Full-stack Next.js + FastAPI + PostgreSQL
 
-###
+**Stack:** ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C1C1C?style=flat-square&logo=langchain&logoColor=white) ![LLM](https://img.shields.io/badge/LLM-FF6B35?style=flat-square&logo=openai&logoColor=white)
+
+[![View Project](https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](your-demo-link)
+
+---
+
+### 🛰️ AERIS — Satellite Cloud Detection
+
+Uncertainty-aware cloud detection in Landsat-8 satellite imagery with Monte Carlo Dropout for calibrated predictions.
+
+**Performance**
+- **92.2% IoU** accuracy
+- **0.0070% ECE** calibration error
+- 4-channel RGB+NIR processing
+- 17,601 training patches
+
+**Stack:** ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![U-Net](https://img.shields.io/badge/U--Net-1C1C1C?style=flat-square&logoColor=white) ![ResNet34](https://img.shields.io/badge/ResNet34-1C1C1C?style=flat-square&logoColor=white) ![Monte Carlo Dropout](https://img.shields.io/badge/Monte_Carlo_Dropout-1C1C1C?style=flat-square&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+[![View Project](https://img.shields.io/badge/View_Project-667EEA?style=for-the-badge&logo=vercel&logoColor=white)](your-demo-link)
+
+---
+
+### 🏥 DermAssist — AI Skin Cancer Risk Triage
+
+Ensemble of 3 ResNet50 models with Grad-CAM explainability for melanoma detection and 4-tier clinical risk stratification.
+
+**Clinical Impact**
+- **0.937 AUC-ROC** — Excellent discrimination
+- **93% malignant recall** — High sensitivity
+- **46% reduction** in false negatives (28→15)
+- Validated on ISIC 2019 dataset
+
+**Stack:** ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![ResNet50](https://img.shields.io/badge/ResNet50-1C1C1C?style=flat-square&logoColor=white) ![Ensemble Learning](https://img.shields.io/badge/Ensemble_Learning-1C1C1C?style=flat-square&logoColor=white) ![Grad-CAM](https://img.shields.io/badge/Grad--CAM-1C1C1C?style=flat-square&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+[![View Project](https://img.shields.io/badge/View_Project-E4405F?style=for-the-badge&logo=vercel&logoColor=white)](your-demo-link)
+
+---
+
+## Achievements
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+**🚀 ISRO Bharatiya Antariksha Hackathon 2025**
+
+Top 140 out of 8,744 teams nationwide
+
+</td>
+<td align="center" width="50%">
+
+**⭐ Perplexity Campus Partner**
+
+Official campus ambassador driving AI adoption
+
+</td>
+</tr>
+</table>
+
+---
+
+## GitHub Activity
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Eren-Sama&custom_title=Contribution%20Activity&bg_color=0D1117&color=00D9FF&line=667EEA&point=FFFFFF&area_color=00D9FF&area=true&hide_border=true)
+
+---
+
+<p align="center">
+  <i>Open to collaborations, research opportunities, and building the future of AI</i>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Eren-Sama"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" height="32"/></a>
+  <a href="https://linkedin.com/in/eklavya16"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" height="32"/></a>
+  <a href="mailto:eklavya1675@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="32"/></a>
+  <a href="https://instagram.com/noxiousweeb"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram" height="32"/></a>
+  <a href="https://x.com/@itsweebdom"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x" height="32"/></a>
+</p>
+
+<p align="center">
+  <sub>Building the future, one model at a time</sub>
+</p>
