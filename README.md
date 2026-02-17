@@ -1,14 +1,30 @@
-<h1 align="center">EKLAVYA MOHAN AGRAWAL</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B+I'm+Eklavya+Agrawal;AI+%2F+ML+Engineer;Building+Intelligent+Systems" alt="Typing SVG"/>
+</h1>
 
-<p align="center"><b>AI / ML Engineer</b><br>Building Production-Ready Intelligent Systems</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=888888&center=true&vCenter=true&width=500&lines=LLMs+%E2%80%A2+Agentic+AI+%E2%80%A2+RAG+%E2%80%A2+Computer+Vision" alt="subtitle"/>
+</p>
 
-<p align="center">LLMs • Agentic AI • RAG • Computer Vision</p>
+<br>
 
-<p align="center"><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="max-width:500px;border-radius:12px"/></p>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" style="border-radius:16px;border:2px solid #00D9FF22"/>
+</p>
 
-<p align="center"><img src="https://img.shields.io/badge/AWS_AI_Scholar-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" height="28"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Perplexity_Campus_Partner-1C1C1C?style=for-the-badge&logo=perplexity&logoColor=white" height="28"/></p>
+<br>
 
-<p align="center"><a href="https://github.com/Eren-Sama"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github" height="20"/></a>&nbsp;<a href="https://linkedin.com/in/eklavya16"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin" height="20"/></a>&nbsp;<a href="mailto:eklavya1675@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" height="20"/></a>&nbsp;<a href="https://instagram.com/noxiousweeb"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram" height="20"/></a>&nbsp;<a href="https://x.com/@itsweebdom"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x" height="20"/></a></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS_AI_Scholar-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" height="30"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Perplexity_Campus_Partner-1C1C1C?style=for-the-badge&logo=perplexity&logoColor=white" height="30"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Eren-Sama"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github" height="22"/></a>&nbsp;
+  <a href="https://linkedin.com/in/eklavya16"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin" height="22"/></a>&nbsp;
+  <a href="mailto:eklavya1675@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" height="22"/></a>&nbsp;
+  <a href="https://instagram.com/noxiousweeb"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram" height="22"/></a>&nbsp;
+  <a href="https://x.com/@itsweebdom"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x" height="22"/></a>
+</p>
 
 ---
 
@@ -18,7 +34,13 @@
 <p align="center"><img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,postgres&theme=dark" /></p>
 
 ### AI/ML Frameworks
-<p align="center"><img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" style="vertical-align:middle"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45" width="45" style="vertical-align:middle;margin:0 4px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" width="45" style="vertical-align:middle;margin:0 4px"/><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="45" width="45" style="vertical-align:middle;margin:0 4px"/></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" style="vertical-align:middle"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45" width="45" style="vertical-align:middle;margin:0 4px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" width="45" style="vertical-align:middle;margin:0 4px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="45" width="45" style="vertical-align:middle;margin:0 4px"/>
+</p>
 
 ### Web Frameworks
 <p align="center"><img src="https://skillicons.dev/icons?i=flask,fastapi,nextjs,react,nodejs,streamlit&theme=dark" /></p>
@@ -29,7 +51,7 @@
 ### DevOps & Tools
 <p align="center"><img src="https://skillicons.dev/icons?i=git,docker,postman,vscode&theme=dark" /></p>
 
-**Specializations:** CNNs • RNNs • Transformers • Computer Vision • NLP • LLMs • Agentic AI • RAG
+<p align="center"><b>Specializations:</b> CNNs • RNNs • Transformers • Computer Vision • NLP • LLMs • Agentic AI • RAG</p>
 
 ---
 
@@ -108,14 +130,32 @@ Official campus ambassador driving AI adoption
 
 ## ⚡ Live Terminal
 
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2500&pause=400&color=00D9FF&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=140&lines=%24+git+log+--oneline+--graph+Eren-Sama;%7C+*+a1b2c3d+feat%3A+multi-agent+LangGraph+orchestration+(6+agents);%7C+*+d4e5f6a+feat%3A+uncertainty-aware+satellite+cloud+detection+92.2%25+IoU;%7C+*+7g8h9i0+feat%3A+ResNet50+ensemble+%2B+Grad-CAM+AUC+0.937;%7C+*+j1k2l3m+feat%3A+RAG+pipeline+with+dense+vector+retrieval;%7C+*+n4o5p6q+feat%3A+Monte+Carlo+Dropout+calibration+ECE+0.007" alt="git log"/></p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=1&pause=99999&color=00D9FF&background=0D1117&center=true&vCenter=false&multiline=true&repeat=false&width=740&height=20&lines=%E2%94%8C%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94433" alt="border-top"/>
+</p>
 
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=800&color=39FF14&background=0D111700&center=true&vCenter=true&multiline=false&repeat=true&width=720&height=40&lines=%24+python+train.py+--model+ResNet50+--epochs+50+--+%E2%9C%94+AUC+0.937;%24+langgraph+run+shortlist_agent+--agents+6+--+%E2%9C%94+SUCCESS;%24+docker+build+.+-t+aeris%3Alatest+--+%E2%9C%94+IoU+92.2%25;%24+pytest+tests%2F+--+%E2%9C%94+142+passed+0+failed+coverage+98%25" alt="terminal"/></p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2200&pause=600&color=00D9FF&background=0D1117&center=true&vCenter=true&multiline=true&repeat=true&width=740&height=200&lines=%24+eklavya+%40+dev+~%2Fprojects;%3E+initializing+AI+workspace...+%E2%9C%94;%3E+loading+models+%5BResNet50+%7C+U-Net+%7C+LangGraph%5D...+%E2%9C%94;%3E+connecting+to+vector+store...+%E2%9C%94;%3E+spinning+up+6+autonomous+agents...+%E2%9C%94;%3E+all+systems+online+%F0%9F%9F%A2" alt="boot sequence"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=700&color=39FF14&background=0D1117&center=true&vCenter=true&multiline=false&repeat=true&width=740&height=42&lines=%24+python+train.py+--model+ResNet50+--epochs+50+%E2%9C%94+AUC+0.937;%24+langgraph+run+shortlist_agent+--agents+6+%E2%9C%94+SUCCESS;%24+docker+build+.+-t+aeris%3Alatest+%E2%9C%94+IoU+92.2%25;%24+pytest+tests%2F+%E2%9C%94+142+passed+0+failed+98%25+coverage" alt="terminal commands"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=99999&pause=99999&color=667EEA&background=0D1117&center=true&vCenter=true&multiline=false&repeat=false&width=740&height=30&lines=%24+_+%E2%96%88" alt="cursor"/>
+</p>
 
 ---
 
 <p align="center"><i>Open to collaborations, research opportunities, and building the future of AI</i></p>
 
-<p align="center"><a href="https://github.com/Eren-Sama"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" height="32"/></a>&nbsp;<a href="https://linkedin.com/in/eklavya16"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" height="32"/></a>&nbsp;<a href="mailto:eklavya1675@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="32"/></a>&nbsp;<a href="https://instagram.com/noxiousweeb"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram" height="32"/></a>&nbsp;<a href="https://x.com/@itsweebdom"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x" height="32"/></a></p>
+<p align="center">
+  <a href="https://github.com/Eren-Sama"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" height="32"/></a>&nbsp;
+  <a href="https://linkedin.com/in/eklavya16"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" height="32"/></a>&nbsp;
+  <a href="mailto:eklavya1675@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="32"/></a>&nbsp;
+  <a href="https://instagram.com/noxiousweeb"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram" height="32"/></a>&nbsp;
+  <a href="https://x.com/@itsweebdom"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x" height="32"/></a>
+</p>
 
 <p align="center"><sub>Building the future, one model at a time</sub></p>
