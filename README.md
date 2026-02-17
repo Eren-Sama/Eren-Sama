@@ -18,7 +18,13 @@
 <p align="left"><img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,postgres&theme=dark" /></p>
 
 ### AI/ML Frameworks
-<p align="left"><img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45" width="45" style="padding:4px;vertical-align:middle"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" width="45" style="padding:4px;vertical-align:middle"/><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="45" width="45" style="padding:4px;vertical-align:middle"/></p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" style="vertical-align:middle"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45" width="45" style="vertical-align:middle;margin:0 6px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" width="45" style="vertical-align:middle;margin:0 6px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="45" width="45" style="vertical-align:middle;margin:0 6px"/>
+</p>
 
 ### Web Frameworks
 <p align="left"><img src="https://skillicons.dev/icons?i=flask,fastapi,nextjs,react,nodejs,streamlit&theme=dark" /></p>
@@ -106,9 +112,25 @@ Official campus ambassador driving AI adoption
 
 ---
 
-## GitHub Activity
+## ⚡ GitHub Activity
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Eren-Sama&custom_title=Contribution%20Activity&bg_color=0D1117&color=00D9FF&line=667EEA&point=FFFFFF&area_color=00D9FF&area=true&hide_border=true)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=500&color=00D9FF&background=0D1117&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=130&lines=%24+git+log+--oneline+--graph+Eren-Sama;*+a1b2c3d+feat%3A+multi-agent+LangGraph+orchestration;*+d4e5f6a+feat%3A+Monte+Carlo+Dropout+calibration;*+7g8h9i0+feat%3A+ResNet50+ensemble+%2B+Grad-CAM;*+j1k2l3m+feat%3A+RAG+pipeline+with+vector+embeddings;*+n4o5p6q+feat%3A+real-time+satellite+cloud+detection" alt="git log terminal"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=1000&color=39FF14&background=0D1117&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=45&lines=%24+python+train.py+--model+ResNet50+--epochs+50+--auc+0.937+%E2%9C%94;%24+langgraph+run+shortlist_agent+--agents+6+--status+SUCCESS+%E2%9C%94;%24+docker+build+.+-t+aeris%3Alatest+--layers+4+--iou+92.2%25+%E2%9C%94;%24+pytest+tests%2F+--passed+142+--failed+0+--coverage+98%25+%E2%9C%94" alt="terminal commands"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Eren-Sama&show_icons=true&theme=transparent&hide_border=true&title_color=00D9FF&icon_color=667EEA&text_color=FFFFFF&bg_color=0D1117&rank_icon=github&include_all_commits=true" height="160"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eren-Sama&layout=compact&theme=transparent&hide_border=true&title_color=00D9FF&text_color=FFFFFF&bg_color=0D1117&langs_count=6" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Eren-Sama&theme=transparent&hide_border=true&stroke=667EEA&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF&background=0D1117&dates=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&sideNums=FFFFFF" height="150"/>
+</p>
 
 ---
 
