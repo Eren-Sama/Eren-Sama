@@ -1,15 +1,11 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B+I'm+Eklavya+Agrawal;AI+%2F+ML+Engineer;Building+Intelligent+Systems" alt="Typing SVG"/>
-</h1>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:001a2e,100:0D1117&height=220&section=header&text=EKLAVYA%20MOHAN%20AGRAWAL&fontSize=36&fontColor=00D9FF&animation=fadeIn&fontAlignY=60&desc=AI%20%2F%20ML%20Engineer%20%E2%80%94%20Building%20Intelligent%20Systems&descSize=14&descAlignY=78&descAlign=50" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=888888&center=true&vCenter=true&width=500&lines=LLMs+%E2%80%A2+Agentic+AI+%E2%80%A2+RAG+%E2%80%A2+Computer+Vision" alt="subtitle"/>
+  <code>LLMs</code>&nbsp;•&nbsp;<code>Agentic AI</code>&nbsp;•&nbsp;<code>RAG</code>&nbsp;•&nbsp;<code>Computer Vision</code>
 </p>
 
-<br>
-
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" style="border-radius:16px;border:2px solid #00D9FF22"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" style="border-radius:16px"/>
 </p>
 
 <br>
@@ -35,9 +31,8 @@
 
 ### AI/ML Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" style="vertical-align:middle"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45" width="45" style="vertical-align:middle;margin:0 7px"/>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" style="vertical-align:middle"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45" width="45" style="vertical-align:middle;margin:0 4px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" width="45" style="vertical-align:middle;margin:0 4px"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="45" width="45" style="vertical-align:middle;margin:0 4px"/>
 </p>
@@ -128,25 +123,31 @@ Official campus ambassador driving AI adoption
 
 ---
 
-## ⚡ Live Terminal
+## ⚡ Terminal
 
+<!-- macOS window chrome -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=1&pause=99999&color=00D9FF&background=0D1117&center=true&vCenter=false&multiline=true&repeat=false&width=740&height=20&lines=%E2%94%8C%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94433" alt="border-top"/>
+  <img src="https://img.shields.io/badge/%20-FF5F57?style=flat-square&logoColor=white" height="14" width="14"/>&nbsp;<img src="https://img.shields.io/badge/%20-FEBC2E?style=flat-square&logoColor=white" height="14" width="14"/>&nbsp;<img src="https://img.shields.io/badge/%20-28C840?style=flat-square&logoColor=white" height="14" width="14"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/eklavya@dev:~%2Fprojects-1a1a2e?style=flat-square&logoColor=aaaaaa" height="18"/>
 </p>
 
+<!-- Terminal boot line -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2200&pause=600&color=00D9FF&background=0D1117&center=true&vCenter=true&multiline=true&repeat=true&width=740&height=200&lines=%24+eklavya+%40+dev+~%2Fprojects;%3E+initializing+AI+workspace...+%E2%9C%94;%3E+loading+models+%5BResNet50+%7C+U-Net+%7C+LangGraph%5D...+%E2%9C%94;%3E+connecting+to+vector+store...+%E2%9C%94;%3E+spinning+up+6+autonomous+agents...+%E2%9C%94;%3E+all+systems+online+%F0%9F%9F%A2" alt="boot sequence"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2800&pause=500&color=00D9FF&background=0D1117&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=170&lines=%24+eklavya%40dev+%7E%2Fprojects+%25;%3E+Loading+environment...+%5BPYTORCH+%7C+LANGGRAPH+%7C+FASTAPI%5D+%E2%9C%94;%3E+Mounting+vector+store+%E2%80%A6+%E2%9C%94+128k+embeddings+indexed;%3E+Spawning+agents+%E2%80%A6+%E2%9C%94+6+%2F+6+online;%3E+Running+inference+%E2%80%A6+%E2%9C%94+AUC+0.937+%7C+IoU+92.2%25;%3E+All+systems+green+%F0%9F%9F%A2+%E2%80%94+ready+to+deploy" alt="boot"/>
 </p>
 
+<!-- Scrolling command strip -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=700&color=39FF14&background=0D1117&center=true&vCenter=true&multiline=false&repeat=true&width=740&height=42&lines=%24+python+train.py+--model+ResNet50+--epochs+50+%E2%9C%94+AUC+0.937;%24+langgraph+run+shortlist_agent+--agents+6+%E2%9C%94+SUCCESS;%24+docker+build+.+-t+aeris%3Alatest+%E2%9C%94+IoU+92.2%25;%24+pytest+tests%2F+%E2%9C%94+142+passed+0+failed+98%25+coverage" alt="terminal commands"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=3200&pause=800&color=39FF14&background=0D1117&center=true&vCenter=true&multiline=false&repeat=true&width=720&height=36&lines=%24+python+train.py+--model+ResNet50+--epochs+50+%E2%9C%94+AUC+0.937;%24+langgraph+run+shortlist_agent+--agents+6+%E2%9C%94+SUCCESS;%24+docker+build+.+-t+aeris%3Alatest+%E2%9C%94+IoU+92.2%25;%24+pytest+tests%2F+%E2%9C%94+142+passed+0+failed+coverage+98%25;%24+curl+%2Fapi%2Finfer+-d+image.jpg+%E2%9C%94+risk%3AHIGH+confidence%3A0.94" alt="commands"/>
 </p>
 
+<!-- Cursor blink -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=99999&pause=99999&color=667EEA&background=0D1117&center=true&vCenter=true&multiline=false&repeat=false&width=740&height=30&lines=%24+_+%E2%96%88" alt="cursor"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=800&pause=800&color=667EEA&background=0D1117&center=true&vCenter=true&multiline=false&repeat=true&width=720&height=28&lines=%24+_+;%24+" alt="cursor"/>
 </p>
 
 ---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:001a2e&height=80&section=footer" width="100%"/>
 
 <p align="center"><i>Open to collaborations, research opportunities, and building the future of AI</i></p>
 
