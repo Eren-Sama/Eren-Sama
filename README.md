@@ -14,9 +14,9 @@
 
 <p align="center">
   <a href="https://github.com/Eren-Sama"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github" height="22"/></a>&nbsp;
-  <a href="https://linkedin.com/in/eklavya16"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin" height="22"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/eklavya16/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin" height="22"/></a>&nbsp;
+  <a href="https://my-portfolio-one-flame-14.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00D9FF?style=flat-square&logo=vercel&logoColor=black" height="22"/></a>&nbsp;
   <a href="mailto:eklavya1675@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" height="22"/></a>&nbsp;
-  <a href="https://instagram.com/noxiousweeb"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram" height="22"/></a>&nbsp;
   <a href="https://x.com/@itsweebdom"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x" height="22"/></a>
 </p>
 
@@ -25,30 +25,55 @@
 ## Tech Stack
 
 ### Languages
-<p align="center"><img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,postgres&theme=dark" /></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,postgres&theme=dark" />
+</p>
 
 ### AI/ML Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" style="vertical-align:middle"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45" width="45" style="vertical-align:middle;margin:0 4px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" width="45" style="vertical-align:middle;margin:0 4px"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="45" width="45" style="vertical-align:middle;margin:0 4px"/>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" height="45"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45" width="45"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" width="45"/>
+  &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="45" width="45"/>
 </p>
 
 ### Web Frameworks
-<p align="center"><img src="https://skillicons.dev/icons?i=flask,fastapi,nextjs,react,nodejs,streamlit&theme=dark" /></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flask,fastapi,nextjs,react,nodejs,streamlit&theme=dark" />
+</p>
 
 ### Databases & Cloud
-<p align="center"><img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,supabase,vercel&theme=dark" /></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,supabase,vercel&theme=dark" />
+</p>
 
 ### DevOps & Tools
-<p align="center"><img src="https://skillicons.dev/icons?i=git,docker,postman,vscode&theme=dark" /></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,docker,postman,vscode&theme=dark" />
+</p>
 
 <p align="center"><b>Specializations:</b> CNNs • RNNs • Transformers • Computer Vision • NLP • LLMs • Agentic AI • RAG</p>
 
 ---
 
 ## Featured Projects
+
+### 🦅 HawkEye AI &nbsp;<img src="https://img.shields.io/badge/Status-Ongoing-FFB800?style=flat-square" height="20"/>
+
+Real-time AI-powered surveillance and threat detection system with computer vision at its core.
+
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" height="22"/>&nbsp;
+  <img src="https://img.shields.io/badge/Computer_Vision-1C1C1C?style=flat-square&logoColor=white" height="22"/>&nbsp;
+  <img src="https://img.shields.io/badge/Real--Time_Detection-1C1C1C?style=flat-square&logoColor=white" height="22"/>
+</p>
+
+[![View Project](https://img.shields.io/badge/View_Project-FFB800?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Eren-Sama/HawkEye-AI)
+
+---
 
 ### 🎯 Shortlist — AI Career Engineering Platform
 
@@ -60,9 +85,15 @@ Multi-agent LLM orchestration system that converts job descriptions into recruit
 - Multi-tenant security
 - Full-stack Next.js + FastAPI + PostgreSQL
 
-<p><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" height="22"/>&nbsp;<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" height="22"/>&nbsp;<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" height="22"/>&nbsp;<img src="https://img.shields.io/badge/LangGraph-1C1C1C?style=flat-square&logo=langchain&logoColor=white" height="22"/>&nbsp;<img src="https://img.shields.io/badge/LLM-FF6B35?style=flat-square&logo=openai&logoColor=white" height="22"/></p>
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" height="22"/>&nbsp;
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" height="22"/>&nbsp;
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" height="22"/>&nbsp;
+  <img src="https://img.shields.io/badge/LangGraph-1C1C1C?style=flat-square&logo=langchain&logoColor=white" height="22"/>&nbsp;
+  <img src="https://img.shields.io/badge/LLM-FF6B35?style=flat-square&logo=openai&logoColor=white" height="22"/>
+</p>
 
-[![View Project](https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](your-demo-link)
+[![View Project](https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eren-Sama/Shortlist)
 
 ---
 
@@ -76,9 +107,15 @@ Uncertainty-aware cloud detection in Landsat-8 satellite imagery with Monte Carl
 - 4-channel RGB+NIR processing
 - 17,601 training patches
 
-<p><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" height="22"/>&nbsp;<img src="https://img.shields.io/badge/U--Net-1C1C1C?style=flat-square&logoColor=white" height="22"/>&nbsp;<img src="https://img.shields.io/badge/ResNet34-1C1C1C?style=flat-square&logoColor=white" height="22"/>&nbsp;<img src="https://img.shields.io/badge/Monte_Carlo_Dropout-1C1C1C?style=flat-square&logoColor=white" height="22"/>&nbsp;<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" height="22"/></p>
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" height="22"/>&nbsp;
+  <img src="https://img.shields.io/badge/U--Net-1C1C1C?style=flat-square&logoColor=white" height="22"/>&nbsp;
+  <img src="https://img.shields.io/badge/ResNet34-1C1C1C?style=flat-square&logoColor=white" height="22"/>&nbsp;
+  <img src="https://img.shields.io/badge/Monte_Carlo_Dropout-1C1C1C?style=flat-square&logoColor=white" height="22"/>&nbsp;
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" height="22"/>
+</p>
 
-[![View Project](https://img.shields.io/badge/View_Project-667EEA?style=for-the-badge&logo=vercel&logoColor=white)](your-demo-link)
+[![View Project](https://img.shields.io/badge/View_Project-667EEA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eren-Sama/AERIS)
 
 ---
 
@@ -92,9 +129,15 @@ Ensemble of 3 ResNet50 models with Grad-CAM explainability for melanoma detectio
 - **46% reduction** in false negatives (28→15)
 - Validated on ISIC 2019 dataset
 
-<p><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" height="22"/>&nbsp;<img src="https://img.shields.io/badge/ResNet50-1C1C1C?style=flat-square&logoColor=white" height="22"/>&nbsp;<img src="https://img.shields.io/badge/Ensemble_Learning-1C1C1C?style=flat-square&logoColor=white" height="22"/>&nbsp;<img src="https://img.shields.io/badge/Grad--CAM-1C1C1C?style=flat-square&logoColor=white" height="22"/>&nbsp;<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" height="22"/></p>
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" height="22"/>&nbsp;
+  <img src="https://img.shields.io/badge/ResNet50-1C1C1C?style=flat-square&logoColor=white" height="22"/>&nbsp;
+  <img src="https://img.shields.io/badge/Ensemble_Learning-1C1C1C?style=flat-square&logoColor=white" height="22"/>&nbsp;
+  <img src="https://img.shields.io/badge/Grad--CAM-1C1C1C?style=flat-square&logoColor=white" height="22"/>&nbsp;
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" height="22"/>
+</p>
 
-[![View Project](https://img.shields.io/badge/View_Project-E4405F?style=for-the-badge&logo=vercel&logoColor=white)](your-demo-link)
+[![View Project](https://img.shields.io/badge/View_Project-E4405F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eren-Sama/DermAssist)
 
 ---
 
@@ -128,17 +171,14 @@ Official campus ambassador driving AI adoption
   <img src="https://img.shields.io/badge/%20-FF5F57?style=flat-square&logoColor=white" height="14" width="14"/>&nbsp;<img src="https://img.shields.io/badge/%20-FEBC2E?style=flat-square&logoColor=white" height="14" width="14"/>&nbsp;<img src="https://img.shields.io/badge/%20-28C840?style=flat-square&logoColor=white" height="14" width="14"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/eklavya@dev:~%2Fprojects-1a1a2e?style=flat-square&logoColor=aaaaaa" height="18"/>
 </p>
 
-<!-- Terminal boot line -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2800&pause=500&color=00D9FF&background=0D1117&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=170&lines=%24+eklavya%40dev+%7E%2Fprojects+%25;%3E+Loading+environment...+%5BPYTORCH+%7C+LANGGRAPH+%7C+FASTAPI%5D+%E2%9C%94;%3E+Mounting+vector+store+%E2%80%A6+%E2%9C%94+128k+embeddings+indexed;%3E+Spawning+agents+%E2%80%A6+%E2%9C%94+6+%2F+6+online;%3E+Running+inference+%E2%80%A6+%E2%9C%94+AUC+0.937+%7C+IoU+92.2%25;%3E+All+systems+green+%F0%9F%9F%A2+%E2%80%94+ready+to+deploy" alt="boot"/>
 </p>
 
-<!-- Scrolling command strip -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=3200&pause=800&color=39FF14&background=0D1117&center=true&vCenter=true&multiline=false&repeat=true&width=720&height=36&lines=%24+python+train.py+--model+ResNet50+--epochs+50+%E2%9C%94+AUC+0.937;%24+langgraph+run+shortlist_agent+--agents+6+%E2%9C%94+SUCCESS;%24+docker+build+.+-t+aeris%3Alatest+%E2%9C%94+IoU+92.2%25;%24+pytest+tests%2F+%E2%9C%94+142+passed+0+failed+coverage+98%25;%24+curl+%2Fapi%2Finfer+-d+image.jpg+%E2%9C%94+risk%3AHIGH+confidence%3A0.94" alt="commands"/>
 </p>
 
-<!-- Cursor blink -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=800&pause=800&color=667EEA&background=0D1117&center=true&vCenter=true&multiline=false&repeat=true&width=720&height=28&lines=%24+_+;%24+" alt="cursor"/>
 </p>
@@ -151,9 +191,9 @@ Official campus ambassador driving AI adoption
 
 <p align="center">
   <a href="https://github.com/Eren-Sama"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" height="32"/></a>&nbsp;
-  <a href="https://linkedin.com/in/eklavya16"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" height="32"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/eklavya16/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" height="32"/></a>&nbsp;
+  <a href="https://my-portfolio-one-flame-14.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=black" height="32"/></a>&nbsp;
   <a href="mailto:eklavya1675@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="32"/></a>&nbsp;
-  <a href="https://instagram.com/noxiousweeb"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram" height="32"/></a>&nbsp;
   <a href="https://x.com/@itsweebdom"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x" height="32"/></a>
 </p>
 
