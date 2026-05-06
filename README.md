@@ -1,74 +1,62 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:001a2e,100:0D1117&height=220&section=header&text=EKLAVYA%20MOHAN%20AGRAWAL&fontSize=36&fontColor=00D9FF&animation=fadeIn&fontAlignY=60&desc=AI%20%2F%20ML%20Engineer%20%E2%80%94%20Building%20Intelligent%20Systems&descSize=14&descAlignY=78&descAlign=50" width="100%"/>
 
-<p align="center">
-  <code>LLMs</code>&nbsp;•&nbsp;<code>Agentic AI</code>&nbsp;•&nbsp;<code>RAG</code>&nbsp;•&nbsp;<code>Computer Vision</code>
-</p>
+<p align="center"><code>LLMs</code>&nbsp;•&nbsp;<code>Agentic AI</code>&nbsp;•&nbsp;<code>RAG</code>&nbsp;•&nbsp;<code>Computer Vision</code></p>
+
+<p align="center"><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" style="border-radius:16px"/></p>
+
+<p align="center"><img src="https://img.shields.io/badge/AWS_AI_Scholar-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" height="28"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Perplexity_Campus_Partner-1C1C1C?style=for-the-badge&logo=perplexity&logoColor=white" height="28"/></p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" style="border-radius:16px"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS_AI_Scholar-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" height="30"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Perplexity_Campus_Partner-1C1C1C?style=for-the-badge&logo=perplexity&logoColor=white" height="30"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Eren-Sama"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github" height="22"/></a>&nbsp;
-  <a href="https://www.linkedin.com/in/eklavya16/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin" height="22"/></a>&nbsp;
-  <a href="https://my-portfolio-one-flame-14.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00D9FF?style=flat-square&logo=vercel&logoColor=black" height="22"/></a>&nbsp;
-  <a href="mailto:eklavya1675@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" height="22"/></a>&nbsp;
-  <a href="https://x.com/@itsweebdom"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x" height="22"/></a>
+<a href="https://github.com/Eren-Sama"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="24"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/eklavya16/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="24"/></a>&nbsp;
+<a href="https://my-portfolio-one-flame-14.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00D9FF?style=flat-square&logo=vercel&logoColor=black" height="24"/></a>&nbsp;
+<a href="mailto:eklavya1675@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" height="24"/></a>
 </p>
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 ### Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,postgres&theme=dark" />
-</p>
 
-### AI/ML Frameworks
+<p align="center"><img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,postgres&theme=dark"/></p>
+
+### AI / ML Frameworks
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" height="45"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45" width="45"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" width="45"/>
-  &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="45" width="45"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 </p>
 
 ### Web Frameworks
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flask,fastapi,nextjs,react,nodejs,streamlit&theme=dark" />
-</p>
+
+<p align="center"><img src="https://skillicons.dev/icons?i=flask,fastapi,nextjs,react,nodejs,streamlit&theme=dark"/></p>
 
 ### Databases & Cloud
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,supabase,vercel&theme=dark" />
-</p>
+
+<p align="center"><img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,supabase,vercel&theme=dark"/></p>
 
 ### DevOps & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,docker,postman,vscode&theme=dark" />
-</p>
+
+<p align="center"><img src="https://skillicons.dev/icons?i=git,docker,postman,vscode&theme=dark"/></p>
 
 <p align="center"><b>Specializations:</b> CNNs • RNNs • Transformers • Computer Vision • NLP • LLMs • Agentic AI • RAG</p>
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
 ### 🦅 HawkEye AI &nbsp;<img src="https://img.shields.io/badge/Status-Ongoing-FFB800?style=flat-square" height="20"/>
 
 Real-time AI-powered surveillance and threat detection system with computer vision at its core.
 
 <p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" height="22"/>&nbsp;
-  <img src="https://img.shields.io/badge/Computer_Vision-1C1C1C?style=flat-square&logoColor=white" height="22"/>&nbsp;
-  <img src="https://img.shields.io/badge/Real--Time_Detection-1C1C1C?style=flat-square&logoColor=white" height="22"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" height="22"/>&nbsp;
+<img src="https://img.shields.io/badge/Computer_Vision-1C1C1C?style=flat-square&logoColor=white" height="22"/>&nbsp;
+<img src="https://img.shields.io/badge/Real--Time_Detection-1C1C1C?style=flat-square&logoColor=white" height="22"/>
 </p>
 
 [![View Project](https://img.shields.io/badge/View_Project-FFB800?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Eren-Sama/HawkEye-AI)
@@ -86,11 +74,11 @@ Multi-agent LLM orchestration system that converts job descriptions into recruit
 - Full-stack Next.js + FastAPI + PostgreSQL
 
 <p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" height="22"/>&nbsp;
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" height="22"/>&nbsp;
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" height="22"/>&nbsp;
-  <img src="https://img.shields.io/badge/LangGraph-1C1C1C?style=flat-square&logo=langchain&logoColor=white" height="22"/>&nbsp;
-  <img src="https://img.shields.io/badge/LLM-FF6B35?style=flat-square&logo=openai&logoColor=white" height="22"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" height="22"/>&nbsp;
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" height="22"/>&nbsp;
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" height="22"/>&nbsp;
+<img src="https://img.shields.io/badge/LangGraph-1C1C1C?style=flat-square&logo=langchain&logoColor=white" height="22"/>&nbsp;
+<img src="https://img.shields.io/badge/LLM-FF6B35?style=flat-square&logo=openai&logoColor=white" height="22"/>
 </p>
 
 [![View Project](https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eren-Sama/Shortlist)
@@ -108,11 +96,11 @@ Uncertainty-aware cloud detection in Landsat-8 satellite imagery with Monte Carl
 - 17,601 training patches
 
 <p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" height="22"/>&nbsp;
-  <img src="https://img.shields.io/badge/U--Net-1C1C1C?style=flat-square&logoColor=white" height="22"/>&nbsp;
-  <img src="https://img.shields.io/badge/ResNet34-1C1C1C?style=flat-square&logoColor=white" height="22"/>&nbsp;
-  <img src="https://img.shields.io/badge/Monte_Carlo_Dropout-1C1C1C?style=flat-square&logoColor=white" height="22"/>&nbsp;
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" height="22"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" height="22"/>&nbsp;
+<img src="https://img.shields.io/badge/U--Net-1C1C1C?style=flat-square&logoColor=white" height="22"/>&nbsp;
+<img src="https://img.shields.io/badge/ResNet34-1C1C1C?style=flat-square&logoColor=white" height="22"/>&nbsp;
+<img src="https://img.shields.io/badge/Monte_Carlo_Dropout-1C1C1C?style=flat-square&logoColor=white" height="22"/>&nbsp;
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" height="22"/>
 </p>
 
 [![View Project](https://img.shields.io/badge/View_Project-667EEA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eren-Sama/AERIS)
@@ -130,18 +118,18 @@ Ensemble of 3 ResNet50 models with Grad-CAM explainability for melanoma detectio
 - Validated on ISIC 2019 dataset
 
 <p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" height="22"/>&nbsp;
-  <img src="https://img.shields.io/badge/ResNet50-1C1C1C?style=flat-square&logoColor=white" height="22"/>&nbsp;
-  <img src="https://img.shields.io/badge/Ensemble_Learning-1C1C1C?style=flat-square&logoColor=white" height="22"/>&nbsp;
-  <img src="https://img.shields.io/badge/Grad--CAM-1C1C1C?style=flat-square&logoColor=white" height="22"/>&nbsp;
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" height="22"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" height="22"/>&nbsp;
+<img src="https://img.shields.io/badge/ResNet50-1C1C1C?style=flat-square&logoColor=white" height="22"/>&nbsp;
+<img src="https://img.shields.io/badge/Ensemble_Learning-1C1C1C?style=flat-square&logoColor=white" height="22"/>&nbsp;
+<img src="https://img.shields.io/badge/Grad--CAM-1C1C1C?style=flat-square&logoColor=white" height="22"/>&nbsp;
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" height="22"/>
 </p>
 
 [![View Project](https://img.shields.io/badge/View_Project-E4405F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eren-Sama/DermAssist)
 
 ---
 
-## Achievements
+## 🏆 Achievements
 
 <table>
 <tr>
@@ -164,24 +152,23 @@ Official campus ambassador driving AI adoption
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Eren-Sama&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=667EEA&text_color=ffffff&rank_icon=github" height="170"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eren-Sama&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=6" height="170"/>
+</p>
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Eren-Sama&hide_border=true&background=0D1117&ring=00D9FF&fire=667EEA&currStreakLabel=00D9FF&sideLabels=ffffff&dates=888888&stroke=1a1a2e" width="500"/></p>
+
+---
+
 ## ⚡ Terminal
 
-<!-- macOS window chrome -->
-<p align="center">
-  <img src="https://img.shields.io/badge/%20-FF5F57?style=flat-square&logoColor=white" height="14" width="14"/>&nbsp;<img src="https://img.shields.io/badge/%20-FEBC2E?style=flat-square&logoColor=white" height="14" width="14"/>&nbsp;<img src="https://img.shields.io/badge/%20-28C840?style=flat-square&logoColor=white" height="14" width="14"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/eklavya@dev:~%2Fprojects-1a1a2e?style=flat-square&logoColor=aaaaaa" height="18"/>
-</p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2600&pause=700&color=00D9FF&background=0D1117&center=true&vCenter=true&multiline=true&repeat=true&width=680&height=165&lines=%24+eklavya%40dev+%7E%2Fprojects+%25;%3E+Initializing+stack+...+%5BPYTORCH+%7C+LANGGRAPH+%7C+FASTAPI%5D+%E2%9C%94;%3E+Vector+store+mounted+...+128k+embeddings+indexed+%E2%9C%94;%3E+Agent+swarm+online+...+6+%2F+6+agents+ready+%E2%9C%94;%3E+Inference+running+...+AUC+0.937+%7C+IoU+92.2%25+%7C+ECE+0.007+%E2%9C%94;%3E+%F0%9F%9F%A2+All+systems+nominal+%E2%80%94+ready+to+deploy" alt="boot"/></p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2800&pause=500&color=00D9FF&background=0D1117&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=170&lines=%24+eklavya%40dev+%7E%2Fprojects+%25;%3E+Loading+environment...+%5BPYTORCH+%7C+LANGGRAPH+%7C+FASTAPI%5D+%E2%9C%94;%3E+Mounting+vector+store+%E2%80%A6+%E2%9C%94+128k+embeddings+indexed;%3E+Spawning+agents+%E2%80%A6+%E2%9C%94+6+%2F+6+online;%3E+Running+inference+%E2%80%A6+%E2%9C%94+AUC+0.937+%7C+IoU+92.2%25;%3E+All+systems+green+%F0%9F%9F%A2+%E2%80%94+ready+to+deploy" alt="boot"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=3200&pause=800&color=39FF14&background=0D1117&center=true&vCenter=true&multiline=false&repeat=true&width=720&height=36&lines=%24+python+train.py+--model+ResNet50+--epochs+50+%E2%9C%94+AUC+0.937;%24+langgraph+run+shortlist_agent+--agents+6+%E2%9C%94+SUCCESS;%24+docker+build+.+-t+aeris%3Alatest+%E2%9C%94+IoU+92.2%25;%24+pytest+tests%2F+%E2%9C%94+142+passed+0+failed+coverage+98%25;%24+curl+%2Fapi%2Finfer+-d+image.jpg+%E2%9C%94+risk%3AHIGH+confidence%3A0.94" alt="commands"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=800&pause=800&color=667EEA&background=0D1117&center=true&vCenter=true&multiline=false&repeat=true&width=720&height=28&lines=%24+_+;%24+" alt="cursor"/>
-</p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=3000&pause=700&color=39FF14&background=0D1117&center=true&vCenter=true&multiline=false&repeat=true&width=680&height=34&lines=%24+python+train.py+--model+ResNet50+%E2%86%92+AUC+0.937;%24+langgraph+run+shortlist+--agents+6+%E2%86%92+SUCCESS;%24+docker+build+aeris%3Alatest+%E2%86%92+IoU+92.2%25;%24+pytest+tests%2F+%E2%86%92+142+passed+%7C+0+failed+%7C+98%25+cov;%24+hawkeye+%2F%2Finfer+stream.mp4+%E2%86%92+threat%3ADETECTED" alt="commands"/></p>
 
 ---
 
@@ -190,11 +177,10 @@ Official campus ambassador driving AI adoption
 <p align="center"><i>Open to collaborations, research opportunities, and building the future of AI</i></p>
 
 <p align="center">
-  <a href="https://github.com/Eren-Sama"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" height="32"/></a>&nbsp;
-  <a href="https://www.linkedin.com/in/eklavya16/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" height="32"/></a>&nbsp;
-  <a href="https://my-portfolio-one-flame-14.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=black" height="32"/></a>&nbsp;
-  <a href="mailto:eklavya1675@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="32"/></a>&nbsp;
-  <a href="https://x.com/@itsweebdom"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x" height="32"/></a>
+<a href="https://github.com/Eren-Sama"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" height="30"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/eklavya16/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" height="30"/></a>&nbsp;
+<a href="https://my-portfolio-one-flame-14.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=black" height="30"/></a>&nbsp;
+<a href="mailto:eklavya1675@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="30"/></a>
 </p>
 
 <p align="center"><sub>Building the future, one model at a time</sub></p>
