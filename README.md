@@ -152,18 +152,6 @@ Official campus ambassador driving AI adoption
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Eren-Sama&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=667EEA&text_color=ffffff&rank_icon=github" height="170"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eren-Sama&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=6" height="170"/>
-</p>
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Eren-Sama&hide_border=true&background=0D1117&ring=00D9FF&fire=667EEA&currStreakLabel=00D9FF&sideLabels=ffffff&dates=888888&stroke=1a1a2e" width="500"/></p>
-
----
-
 ## ⚡ Terminal
 
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2600&pause=700&color=00D9FF&background=0D1117&center=true&vCenter=true&multiline=true&repeat=true&width=680&height=165&lines=%24+eklavya%40dev+%7E%2Fprojects+%25;%3E+Initializing+stack+...+%5BPYTORCH+%7C+LANGGRAPH+%7C+FASTAPI%5D+%E2%9C%94;%3E+Vector+store+mounted+...+128k+embeddings+indexed+%E2%9C%94;%3E+Agent+swarm+online+...+6+%2F+6+agents+ready+%E2%9C%94;%3E+Inference+running+...+AUC+0.937+%7C+IoU+92.2%25+%7C+ECE+0.007+%E2%9C%94;%3E+%F0%9F%9F%A2+All+systems+nominal+%E2%80%94+ready+to+deploy" alt="boot"/></p>
